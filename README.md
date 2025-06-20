@@ -13,10 +13,10 @@ Projeyi kendi bilgisayarınızda çalıştırabilmeniz için, veritabanı dosya 
 Programı çalıştırmak için Sinema_Otomasyon.sln dosyasını Visual Studio üzerinden açmanız yeterlidir.
 
 *Katkıda Bulunanlar*
-Arda Gülay
-Cansın İçim
-Ege Yağız Kaya
-Mert Okumuş
+Arda Gülay,
+Cansın İçim,
+Ege Yağız Kaya,
+Mert Okumuş,
 
 --------------------------------------------------------------------------------------
 ENGLISH
@@ -33,10 +33,10 @@ To run it on your own computer, you need to update the database file paths accor
 To launch the program, open and run the Sinema_Otomasyon.sln file in Visual Studio.
 
 *Contributors*
-Arda Gülay
-Cansın İçim
-Ege Yağız Kaya
-Mert Okumuş
+Arda Gülay,
+Cansın İçim,
+Ege Yağız Kaya,
+Mert Okumuş,
 
 
 
