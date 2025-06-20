@@ -16,7 +16,7 @@ Programı çalıştırmak için Sinema_Otomasyon.sln dosyasını Visual Studio �
 Arda Gülay,
 Cansın İçim,
 Ege Yağız Kaya,
-Mert Okumuş,
+Mert Okumuş.
 
 --------------------------------------------------------------------------------------
 ENGLISH
@@ -36,7 +36,7 @@ To launch the program, open and run the Sinema_Otomasyon.sln file in Visual Stud
 Arda Gülay,
 Cansın İçim,
 Ege Yağız Kaya,
-Mert Okumuş,
+Mert Okumuş.
 
 
 
